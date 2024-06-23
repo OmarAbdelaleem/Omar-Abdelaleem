@@ -9,14 +9,14 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Omar, a Data Engineer from EGYPT
+  Hi, I'm Omar, a Data Engineer from Egypt
   <br>
   <br>
-  👨‍🎓 I'm studying for a Bachelor's degree in Helwan University Mechanical Engineering Department.
+  👨‍🎓 I hold a Bachelor's degree in Mechanical Engineering.
   <br>
   💻 I love Writing code, and I am currently working as a Data Engineer at Datain! 😊
   <br>
-  📚 I’m currently focusing on Data Engineering 
+  📚 I’m focusing on Data Engineering, software, and elevating Businesses with Data Symphony, where Insights Meet Impact!
   <br>
   📫 How to reach me 👇
 </p>
