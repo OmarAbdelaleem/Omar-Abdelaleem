@@ -34,6 +34,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="45" alt="ubuntu logo"  />
+  <img width="12" />
+  <img title="Microsoft Visual Studio" height="45" src="images/visualstudio.png" />
+  <img width="12" />
+  <img title="JSON" height="45" src="images/json.svg" />
+  <img width="12" />
+  <img title="jinja" height="45" src="images/Jinja.png" />
+  <img width="12" />
+  <img title="Snowflake" height="45" src="images/Snowflake.png" />
+  <img width="12" />
+  <img title="Apache Airflow" height="45" src="images/Airflow.png" />
+  <img width="12" />
+  <img title="DBT" height="45" src="images/dbt.png" />
+</p>
+<hr>
 </div>
 
 ###
@@ -46,14 +60,10 @@
 
 ###
 
-<h3 align="left">How to reach me:</h3>
+<h3 align="left">How to reach me:</h2>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
-</div>
+</p>
+<p align="left"> <a href="https://www.linkedin.com/in/omar-abdelaleem-%F0%9F%87%B5%F0%9F%87%B8-8a5906193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=45></a> <a href="mailto:oabdelaleem41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=45></a> <a href="http://wa.me//201010147580"><img 
+<hr>
 
 ###
