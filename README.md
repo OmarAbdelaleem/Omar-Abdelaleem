@@ -46,6 +46,12 @@
   <img title="Apache Airflow" height="45" src="images/Airflow.png" />
   <img width="12" />
   <img title="DBT" height="45" src="images/dbt.png" />
+  <img width="12" />
+  <img title="SSIS" height="45" src="images/SSIS.jpg" />
+  <img width="12" />
+  <img title="NOSQL" height="45" src="images/NOSQL.png" />
+  <img width="12" />
+  <img title="ORACLE" height="45" src="images/Oracle.png" />
 </p>
 <hr>
 </div>
