@@ -52,6 +52,7 @@
   <img title="NOSQL" height="45" src="images/NOSQL.png" />
   <img width="12" />
   <img title="ORACLE" height="45" src="images/Oracle.png" />
+  <img title="Denodo" height="45" src="images/Denodo_logo.png" />
 </p>
 <hr>
 </div>
