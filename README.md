@@ -62,15 +62,21 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarAbdelaleem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAbdelaleem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=OmarAbdelaleem)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=OmarAbdelaleem&theme=dark" alt="GitHub Streak" /></a>
+  </a>
 </div>
 
 ###
 
-<h3 align="left">How to reach me:</h2>
+<h3 align="left">How to reach me:</h3>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-abdelaleem-%F0%9F%87%B5%F0%9F%87%B8-8a5906193/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=45>
+  </a>
+  <a href="mailto:oabdelaleem41@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=45>
+  </a>
 </p>
-<p align="left"> <a href="https://www.linkedin.com/in/omar-abdelaleem-%F0%9F%87%B5%F0%9F%87%B8-8a5906193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=45></a> <a href="mailto:oabdelaleem41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=45></a> <a href="http://wa.me//201010147580"><img 
 <hr>
-
-###
